@@ -1,0 +1,23 @@
+{
+  "name": "typescriptcode",
+  "version": "1.0.0",
+  "description": "- Function\r - Classes\r - Class Inheritance\r - Class Modifiers\r - Interface",
+  "main": "class.js",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appleobject/TypeScript_iLearn.git"
+  },
+  "author": "Olalekan Adewale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appleobject/TypeScript_iLearn/issues"
+  },
+  "homepage": "https://github.com/appleobject/TypeScript_iLearn#readme"
+}
